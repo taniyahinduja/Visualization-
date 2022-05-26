@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+.pBar{
+    width: 50%;
+    margin-left:40px; 
+    margin-right :40px ;
+    margin-top: 10px;
+}  
+.amenities{
+    font-weight: bolder;
+}
